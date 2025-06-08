@@ -9,11 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* PGCE, University of Sundreland, 2022-23
-* MA History of Arts, University of Glasgow, 2014-2018
-* 
+
 
 Work experience
 ======
@@ -31,7 +27,13 @@ Work experience
   * GitHub University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
-  
+
+Education
+======
+* PGCE, University of Sundreland, 2022-23
+* MA History of Arts, University of Glasgow, 2014-2018
+* 
+
 Skills
 ======
 * Skill 1
